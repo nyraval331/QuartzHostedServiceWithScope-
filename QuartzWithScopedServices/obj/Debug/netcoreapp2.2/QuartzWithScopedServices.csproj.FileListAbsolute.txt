@@ -1,0 +1,17 @@
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\bin\Debug\netcoreapp2.2\QuartzWithScopedServices.deps.json
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\bin\Debug\netcoreapp2.2\QuartzWithScopedServices.runtimeconfig.json
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\bin\Debug\netcoreapp2.2\QuartzWithScopedServices.runtimeconfig.dev.json
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\bin\Debug\netcoreapp2.2\QuartzWithScopedServices.dll
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\bin\Debug\netcoreapp2.2\QuartzWithScopedServices.pdb
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.csproj.AssemblyReference.cache
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.AssemblyInfoInputs.cache
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.AssemblyInfo.cs
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.csproj.CoreCompileInputs.cache
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.RazorAssemblyInfo.cache
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.RazorAssemblyInfo.cs
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.RazorTargetAssemblyInfo.cache
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.dll
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.pdb
+D:\Nayan\blog-examples\QuartzWithScopedServices\QuartzWithScopedServices\obj\Debug\netcoreapp2.2\QuartzWithScopedServices.genruntimeconfig.cache
